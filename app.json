@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "clone_prime_video_react_native",
-    "slug": "clone_prime_video_react_native",
+    "name": "Prime Video Clone",
+    "slug": "prime-video-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,21 +10,21 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#232f3e"
+      "backgroundColor": "#232F3E"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#232f3e"
+        "foregroundImage": "./assets/splash.png",
+        "backgroundColor": "#232F3E"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }
