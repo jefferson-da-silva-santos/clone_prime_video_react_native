@@ -7,12 +7,16 @@ export const styles = StyleSheet.create({
     alignItems: 'flex-start',
     justifyContent: 'flex-start',
   },
-  bannerButton: {
-    width: '100%'
+  sectionCurrentlyWatching: {
+    
   },
-  banner: {
-    width: '100%',
-    height: 200,
-    resizeMode: 'cover',
+  sectionItem: {
+    
+  },
+  sectionItemImage: {
+    
+  },
+  playIcon: {
+    
   }
 });

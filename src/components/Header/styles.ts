@@ -6,9 +6,10 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
+    marginBottom: 10,
   },
   logo: {
-    width: 190,
+    width: 180,
     height: 70,
   }
 })
