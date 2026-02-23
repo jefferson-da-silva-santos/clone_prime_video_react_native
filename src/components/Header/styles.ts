@@ -5,11 +5,12 @@ export const styles = StyleSheet.create({
     width: '100%',
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 20,
+    paddingHorizontal: 20,
+    paddingVertical: 30,
     marginBottom: 10,
   },
   logo: {
-    width: 180,
-    height: 70,
+    width: 200,
+    height: 80,
   }
 })
